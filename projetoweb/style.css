@@ -10,3 +10,18 @@ h1 {
     color: #000;
     text-align: center;
 }
+
+/* Fundo */
+body {
+    background-color: #ebebeb;
+}
+
+/* Imagem */
+img {
+    display: block;
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
