@@ -1,0 +1,12 @@
+/* Texto */
+p {
+    color: #000;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Título */
+h1 {
+    color: #000;
+    text-align: center;
+}
