@@ -1,0 +1,32 @@
+ 
+ /*TEXTO EXPLICATIVO*/
+    p{
+  color:rgb(0, 0, 0);
+      font-size: 18px; 
+      font-family: Arial, Helvetica;
+     }
+ 
+ /*TITULO*/
+    h1{
+    color:rgb(0, 0, 0);
+     text-align: center;
+     }
+
+ /*TEXTO MARCAÇÃO*/
+     b{
+      color: rgb(247, 0, 0);
+     }
+
+  /*FUNDO BRANCO*/
+    body{
+        background-color: rgb(235, 235, 235);
+     }
+    
+  /*IMAGEM*/
+     img{
+         display:block;
+        margin-left:auto;
+         margin-right:auto;
+         width: 500px;
+     }
+
